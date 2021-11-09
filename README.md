@@ -1,1 +1,2 @@
 # PYTHON GUI
+STUDY PYTHON GUI ╰(*°▽°*)╯
